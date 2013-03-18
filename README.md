@@ -5,7 +5,7 @@ A node application to generate a m3u to the console given a directory full of me
 
 
 ```
-Usage: /Users/neal/bin/genm3u <-h|selector regex> [directory (assumes cwd)]
+Usage: genm3u <-h|selector regex> [directory (assumes cwd)]
 ```
 
 'selector regex' if specified, will filter the results by the given javascript regex.
