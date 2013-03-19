@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-// mvregex - A bash script for batch moving a set of files given 2 regexes
+// genm3u - Generate a Media Playlist (m3u) given a directory
 //
 // Copyright (c) 2013 Neal Hardesty
 //
