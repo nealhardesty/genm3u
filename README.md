@@ -15,6 +15,6 @@ Usage: genm3u <-h|selector regex> [directory (assumes cwd)]
 ==
 genm3u relies on node-walk (https://github.com/coolaj86/node-walk)
 ```
-npm install walk
+npm install 
 ```
 

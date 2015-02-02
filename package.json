@@ -1,0 +1,6 @@
+{
+  "description": "genm3u",
+  "dependencies": {
+    "walk": "^2.3.9"
+  }
+}
